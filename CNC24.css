@@ -89,3 +89,21 @@ footer {
     padding: 5px 5px 5px 5px;
     margin-top: 5px;
 }
+#dw{
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 50px 50px 50px 5px;
+    padding: 10px 5px 10px 10px;
+    background: yellow;
+    box-shadow: 8px 5px 15px 1.5px #eaeaff;
+}
+
+#dw,a{
+    
+   text-align: center;
+}
+#dw p{
+    color: black;
+    font-size: 22px;
+}
+
